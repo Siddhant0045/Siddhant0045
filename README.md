@@ -5,7 +5,7 @@
 - 👀 I enjoy doing Competitive Programming and Web development.
 - 🌱 I’m looking to collaborate in open source projects.
 
-
+<br>
 
 ## 📊 Github Usage ~ Status
 
@@ -28,17 +28,12 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
----
-
 ## 🧠 Competitive Programming Profiles
 
 [![CodeChef](https://img.shields.io/badge/-CODECHEF-0098B6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
 [![Codeforces](https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your_username)
 
----
-
 ## 🤝 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/-MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
