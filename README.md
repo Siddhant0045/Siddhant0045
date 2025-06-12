@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Siddhant Shinde.
 - 🎓 I'm currently studying Computer Science and Engineering at Vellore Institute of Technology, Vellore.
-- 👀 I enjoy doing Competitive Programming and Web development.
+- 👀 I enjoy doing Competitive Programming, Web development and App development.
 - 🌱 I’m looking to collaborate in open source projects.
 
 ## 📊 Github Usage ~ Status
