@@ -5,8 +5,6 @@
 - 👀 I enjoy doing Competitive Programming and Web development.
 - 🌱 I’m looking to collaborate in open source projects.
 
-<br>
-
 ## 📊 Github Usage ~ Status
 
 ![Siddhant Shinde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhant0045&show_icons=true&theme=github_dark&count_private=true)
@@ -14,26 +12,36 @@
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Riverpod](https://img.shields.io/badge/-Riverpod-black?style=flat-square&logo=riverpod)
+
 
 ## 🧠 Competitive Programming Profiles
 
-[![CodeChef](https://img.shields.io/badge/-CODECHEF-0098B6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
+[![LeetCode](https://img.shields.io/badge/-LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your_username)
 [![Codeforces](https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your_username)
 
 ## 🤝 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/-MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/-MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhantshinde75576@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-shinde-42110827a/)
