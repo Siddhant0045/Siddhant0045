@@ -33,6 +33,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Riverpod](https://img.shields.io/badge/-Riverpod-black?style=flat-square&logo=riverpod)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=strapi)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 
 ## 🧠 Competitive Programming Profiles
 
